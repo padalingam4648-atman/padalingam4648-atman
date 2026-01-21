@@ -78,9 +78,11 @@ Alongside security and development, I actively explore creative design, blending
 
 ## 🧠 Currently Exploring  
 
-- ⚙️ DevOps Tools & Practices  
 - 🔐 Application Security  
 - 🕵️ Penetration Testing & Ethical Hacking  
+- 🎨 Creative UI/UX & Visual Design  
+- 🖌️ Design Thinking & User-Centered Interfaces  
+
 
 ---
 

@@ -51,6 +51,18 @@ Alongside security and development, I actively explore creative design, blending
 </p>
 
 ---
+## 🎨 Design Tools  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,figma" /><br><br>
+
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge"/>
+</p>
+
+---
+
 
 ## ⚙️ Tools & Platforms  
 

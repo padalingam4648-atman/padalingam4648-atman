@@ -12,12 +12,17 @@
 
 ## 👨‍💻 About Me  
 
-I'm a passionate **Cyber Security student, Python Developer, and Linux Practitioner**.  
-I enjoy building secure, automated, and efficient systems, with a focus on Python-based tools, Linux administration, and DevSecOps practices.  
+I’m a Cyber Security student with a strong foundation in Python development and Linux systems, driven by a passion for building solutions that are secure, efficient, and elegant.
 
-- 🎓 Pursuing **B.E. in Cyber Security**  
-- 💻 Skilled in **Python, Java, C, JavaScript, Dart, Linux, and Web Development**  
-- 📫 Reach me at **padalingams23cys@srishakthi.ac.in**
+Alongside security and development, I actively explore creative design, blending aesthetics with functionality to craft experiences that are not only reliable but visually engaging. I enjoy working at the intersection of technology, security, and design, where clean code meets thoughtful visuals.
+
+🎓 Pursuing B.E. in Cyber Security
+
+💻 Proficient in Python, Java, C, JavaScript, Dart, Linux, and Web Technologies
+
+🎨 Exploring Creative UI/UX & Visual Design
+
+📫 Reach me at padalingams23cys@srishakthi.ac.in
 
 ---
 
